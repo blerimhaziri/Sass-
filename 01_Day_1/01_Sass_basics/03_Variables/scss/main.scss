@@ -16,22 +16,21 @@ main {
 
 div {
   border-radius: 5px;
-  width: 100px;
+  width: $size;
   height: 100px;
   padding: 20px;
   margin: 40px;
   font-size: 35px;
-  font-family: 'Patrick Hand', cursive;
+  font-family: "Patrick Hand", cursive;
   transition: 0.4s transform;
-  color: #fff;
+  color: $color;
   display: flex;
   justify-content: center;
   align-items: center;
-  text-shadow: 0 0 2px dodgerblue,
-  0 0 14px dodgerblue;
+  text-shadow: 0 0 2px dodgerblue, 0 0 14px dodgerblue;
 
   &:hover {
-    transform: scale(1.2) rotate(90deg)
+    transform: scale(1.2) rotate(90deg);
   }
 }
 

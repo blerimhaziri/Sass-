@@ -4,8 +4,13 @@
   box-sizing: border-box;
 }
 
+@mixin headerFont2($font) {
+  border-radius: 5px solid black;
+  background-color: antiquewhite;
+}
+
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: "Arial", sans-serif;
   background: white;
 }
 
@@ -20,6 +25,7 @@ form input {
 
 header {
   margin: 20px 0;
+  @include headerFont2(20px);
 }
 
 .main-width {
@@ -62,7 +68,6 @@ header {
     clear: both;
   }
 }
-
 
 .dialog {
   width: 300px;

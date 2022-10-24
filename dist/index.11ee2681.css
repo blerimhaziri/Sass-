@@ -1,0 +1,50 @@
+header {
+  border: 1px solid #00f;
+}
+
+header .main-width {
+  width: 1000px;
+}
+
+header .main-width .menu {
+  background-color: green;
+  padding-left: 10px;
+  list-style-type: none;
+  display: flex;
+}
+
+header .main-width .menu li:first-child {
+  color: red;
+}
+
+section.main-width .menu2 li:first-child {
+  color: orange;
+}
+
+section.main-width .menu2 li:last-child {
+  color: #00f;
+}
+
+section.main-width .menu2 li:hover {
+  color: purple;
+}
+
+footer .main-width .menu {
+  justify-content: flex-start;
+  display: flex;
+}
+
+footer .main-width li {
+  cursor: pointer;
+  list-style: none;
+}
+
+footer .main-width li:last-child {
+  margin-left: auto;
+}
+
+footer .main-width li:hover {
+  color: #00f;
+}
+
+/*# sourceMappingURL=index.11ee2681.css.map */

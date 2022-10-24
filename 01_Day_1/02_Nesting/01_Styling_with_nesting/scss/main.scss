@@ -1,0 +1,57 @@
+$main-width: 1000px;
+$main-color: blue;
+
+header {
+  border: 1px solid $main-color;
+  .main-width {
+    width: 1000px;
+    .menu {
+      display: flex;
+      padding-left: 10px;
+      list-style-type: none;
+      background-color: green;
+      li {
+        &:first-child {
+          color: red;
+        }
+      }
+    }
+  }
+}
+section.main-width {
+  .menu2 li {
+    &:first-child {
+      color: orange;
+    }
+
+    &:last-child {
+      color: blue;
+    }
+
+    &:hover {
+      color: purple;
+    }
+  }
+}
+
+footer {
+  .main-width {
+    .menu {
+      display: flex;
+      justify-content: flex-start;
+    }
+
+    li {
+      list-style: none;
+      cursor: pointer;
+
+      &:last-child {
+        margin-left: auto;
+      }
+
+      &:hover {
+        color: $main-color;
+      }
+    }
+  }
+}
