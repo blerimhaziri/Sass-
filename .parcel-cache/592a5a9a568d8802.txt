@@ -1,4 +1,4 @@
-4818
+4850
 35C:\Users\W11\Desktop\Sass-\01_Day_1133110705096902121 1
 110C:\Users\W11\Desktop\Sass-\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\LICENSE133110717826450485 0
 54C:\Users\W11\Desktop\Sass-\node_modules\yaml\types.mjs133110717833865466 0
@@ -71,7 +71,7 @@
 71C:\Users\W11\Desktop\Sass-\node_modules\@parcel\utils\src\objectHash.js133110717833505397 0
 62C:\Users\W11\Desktop\Sass-\node_modules\yaml\browser\scalar.js133110717832455384 0
 59C:\Users\W11\Desktop\Sass-\node_modules\css-tree\lib\common133110717835740538 1
-39C:\Users\W11\Desktop\Sass-\package.json133110916802956465 0
+39C:\Users\W11\Desktop\Sass-\package.json133111646954575629 0
 63C:\Users\W11\Desktop\Sass-\node_modules\@parcel\optimizer-image133110717835335428 1
 62C:\Users\W11\Desktop\Sass-\node_modules\ordered-binary\LICENSE133110717826300474 0
 68C:\Users\W11\Desktop\Sass-\node_modules\nth-check\lib\compile.js.map133110717830185392 0
@@ -92,7 +92,7 @@
 96C:\Users\W11\Desktop\Sass-\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE133110717829276116 0
 64C:\Users\W11\Desktop\Sass-\node_modules\weak-lru-cache\README.md133110717829080499 0
 63C:\Users\W11\Desktop\Sass-\node_modules\escalade\dist\index.mjs133110717828300500 0
-31C:\Users\W11\Desktop\Sass-\dist133110931753282948 1
+31C:\Users\W11\Desktop\Sass-\dist133111700506383794 1
 67C:\Users\W11\Desktop\Sass-\node_modules\@parcel\events\package.json133110717830545397 0
 74C:\Users\W11\Desktop\Sass-\node_modules\@parcel\packager-js\lib\helpers.js133110717830305436 0
 60C:\Users\W11\Desktop\Sass-\node_modules\msgpackr-extract\src133110717827820461 1
@@ -142,7 +142,7 @@
 76C:\Users\W11\Desktop\Sass-\node_modules\.bin\download-msgpackr-prebuilds.cmd133110717846492457 0
 76C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\browserVersions.js133110717834665409 0
 79C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\features\wake-lock.js133110717845772565 0
-81C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\02_Exercise_2\scss\main.scss133110697763097956 0
+81C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\02_Exercise_2\scss\main.scss133111641926291616 0
 46C:\Users\W11\Desktop\Sass-\node_modules\@types133110717817090383 1
 51C:\Users\W11\Desktop\Sass-\node_modules\@jridgewell133110717817100388 1
 66C:\Users\W11\Desktop\Sass-\node_modules\lmdb\util\RangeIterable.js133110717835856363 0
@@ -303,6 +303,7 @@
 71C:\Users\W11\Desktop\Sass-\node_modules\@parcel\diagnostic\package.json133110717828230533 0
 71C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\regions\PM.js133110717842589918 0
 62C:\Users\W11\Desktop\Sass-\node_modules\browserslist\README.md133110717829400530 0
+57C:\Users\W11\Desktop\Sass-\dist\01_Exercise_1.215f3088.js133111575284427432 0
 66C:\Users\W11\Desktop\Sass-\node_modules\@parcel\graph\lib\types.js133110717830865421 0
 78C:\Users\W11\Desktop\Sass-\07_Day_4\02_Animations\04_Rocket\images\planet3.png133110697792012726 0
 65C:\Users\W11\Desktop\Sass-\node_modules\weak-lru-cache\index.d.ts133110717829380460 0
@@ -401,6 +402,7 @@
 68C:\Users\W11\Desktop\Sass-\node_modules\css-tree\lib\parser\index.js133110717834345386 0
 52C:\Users\W11\Desktop\Sass-\node_modules\lightningcss133110717828190538 1
 67C:\Users\W11\Desktop\Sass-\node_modules\lightningcss-win32-x64-msvc133110717826970510 1
+50C:\Users\W11\Desktop\Sass-\dist\index.5f64e6e9.css133111575284142025 0
 44C:\Users\W11\Desktop\Sass-\node_modules\lmdb133110717836195407 1
 88C:\Users\W11\Desktop\Sass-\node_modules\@parcel\transformer-babel\lib\babelErrorUtils.js133110717827670497 0
 62C:\Users\W11\Desktop\Sass-\node_modules\escalade\sync\index.js133110717827210492 0
@@ -586,14 +588,14 @@
 72C:\Users\W11\Desktop\Sass-\node_modules\@parcel\transformer-posthtml\src133110717827920476 1
 89C:\Users\W11\Desktop\Sass-\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\crypto.c133110717832285468 0
 60C:\Users\W11\Desktop\Sass-\node_modules\resolve-from\license133110717827040481 0
-68C:\Users\W11\Desktop\Sass-\02_Day_1_-_Homework\01_Tooltip\index.html133110697758160812 0
+68C:\Users\W11\Desktop\Sass-\02_Day_1_-_Homework\01_Tooltip\index.html133111533154938803 0
 51C:\Users\W11\Desktop\Sass-\node_modules\yaml\map.js133110717830555425 0
 69C:\Users\W11\Desktop\Sass-\node_modules\regenerator-runtime\README.md133110717827890459 0
 62C:\Users\W11\Desktop\Sass-\node_modules\react-refresh\babel.js133110717826690470 0
 56C:\Users\W11\Desktop\Sass-\node_modules\terser\README.md133110717834275423 0
 52C:\Users\W11\Desktop\Sass-\node_modules\yaml\pair.js133110717831035386 0
 68C:\Users\W11\Desktop\Sass-\node_modules\@parcel\workers\src\Trace.js133110717832915383 0
-78C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\03_Exercise_3\index.html133110697761542798 0
+78C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\03_Exercise_3\index.html133111596235374719 0
 59C:\Users\W11\Desktop\Sass-\node_modules\yaml\parse-cst.d.ts133110717834050597 0
 146C:\Users\W11\Desktop\Sass-\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\foo\bar\package.json133110717835315445 0
 68C:\Users\W11\Desktop\Sass-\node_modules\posthtml-parser\changelog.md133110717828350530 0
@@ -880,7 +882,7 @@
 67C:\Users\W11\Desktop\Sass-\node_modules\utility-types\dist\index.js133110717827530482 0
 64C:\Users\W11\Desktop\Sass-\node_modules\msgpackr-extract\LICENSE133110717827350471 0
 76C:\Users\W11\Desktop\Sass-\node_modules\utility-types\dist\mapped-types.d.ts133110717831263952 0
-82C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\02_Exercise_2\scss\main.scss133110697761309824 0
+82C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\02_Exercise_2\scss\main.scss133111595501740195 0
 83C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\features\selection-api.js133110717843458275 0
 82C:\Users\W11\Desktop\Sass-\node_modules\json-parse-even-better-errors\package.json133110717826660467 0
 84C:\Users\W11\Desktop\Sass-\node_modules\@parcel\watcher\src\macos\FSEventsBackend.cc133110717829050496 0
@@ -981,6 +983,7 @@
 71C:\Users\W11\Desktop\Sass-\node_modules\sass\types\legacy\function.d.ts133110725726974111 0
 72C:\Users\W11\Desktop\Sass-\node_modules\svgo\plugins\sortDefsChildren.js133110717834385402 0
 81C:\Users\W11\Desktop\Sass-\node_modules\@parcel\optimizer-css\src\CSSOptimizer.js133110717827290512 0
+50C:\Users\W11\Desktop\Sass-\dist\index.8ded835c.css133111537496263757 0
 78C:\Users\W11\Desktop\Sass-\node_modules\type-fest\source\conditional-pick.d.ts133110717830115521 0
 80C:\Users\W11\Desktop\Sass-\node_modules\type-fest\source\conditional-except.d.ts133110717829463605 0
 79C:\Users\W11\Desktop\Sass-\node_modules\@parcel\core\test\TargetRequest.test.js133110717836175446 0
@@ -1337,6 +1340,7 @@
 56C:\Users\W11\Desktop\Sass-\node_modules\svgo\lib\path.js133110717832845397 0
 83C:\Users\W11\Desktop\Sass-\node_modules\@parcel\optimizer-svgo\src\SVGOOptimizer.js133110717827280482 0
 74C:\Users\W11\Desktop\Sass-\node_modules\@parcel\core\lib\InternalConfig.js133110717834705379 0
+63C:\Users\W11\Desktop\Sass-\dist\01_Placeholders.c4fd331b.js.map133111547444235813 0
 63C:\Users\W11\Desktop\Sass-\node_modules\svgo\lib\stringifier.js133110717834415393 0
 60C:\Users\W11\Desktop\Sass-\node_modules\lmdb\src\lmdb-js.cpp133110717834885404 0
 60C:\Users\W11\Desktop\Sass-\node_modules\svgo\lib\svgo\coa.js133110717830795954 0
@@ -1489,6 +1493,7 @@
 89C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\features\css-optional-pseudo.js133110717836905432 0
 70C:\Users\W11\Desktop\Sass-\01_Day_1\04_Mixins\01_Exercise_1\index.html133110909593236301 0
 61C:\Users\W11\Desktop\Sass-\node_modules\sass\types\index.d.ts133110725727044053 0
+54C:\Users\W11\Desktop\Sass-\dist\01_Tooltip.a8ab7b37.js133111537496571428 0
 57C:\Users\W11\Desktop\Sass-\node_modules\sass\types\logger133110725727234070 1
 55C:\Users\W11\Desktop\Sass-\node_modules\sass\types\util133110725727194039 1
 78C:\Users\W11\Desktop\Sass-\node_modules\@parcel\transformer-babel\src\types.js133110717831176060 0
@@ -1859,6 +1864,7 @@
 63C:\Users\W11\Desktop\Sass-\node_modules\node-addon-api\index.js133110717830815450 0
 52C:\Users\W11\Desktop\Sass-\node_modules\css-what\lib133110717827220448 1
 83C:\Users\W11\Desktop\Sass-\node_modules\csso\lib\restructure\prepare\specificity.js133110717833235403 0
+54C:\Users\W11\Desktop\Sass-\dist\index.4248b41a.css.map133111595503177829 0
 67C:\Users\W11\Desktop\Sass-\node_modules\node-addon-api\node_api.gyp133110717826590486 0
 71C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\regions\HU.js133110717839555570 0
 64C:\Users\W11\Desktop\Sass-\node_modules\node-addon-api\nothing.c133110717825970314 0
@@ -2119,6 +2125,7 @@
 76C:\Users\W11\Desktop\Sass-\node_modules\@swc\helpers\lib\_to_property_key.js133110717834515383 0
 99C:\Users\W11\Desktop\Sass-\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.1133110717831875435 0
 97C:\Users\W11\Desktop\Sass-\03_Day_2\05_Introduction_to_RWD_and_units\04_Exercise_4\scss\main.scss133110697768734034 0
+61C:\Users\W11\Desktop\Sass-\dist\03_Exercise_3.74f7c09c.js.map133111652121752241 0
 71C:\Users\W11\Desktop\Sass-\node_modules\css-tree\lib\tokenizer\utils.js133110717835885426 0
 99C:\Users\W11\Desktop\Sass-\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.c133110717833255464 0
 80C:\Users\W11\Desktop\Sass-\node_modules\json-parse-even-better-errors\LICENSE.md133110717827418374 0
@@ -2197,7 +2204,7 @@
 95C:\Users\W11\Desktop\Sass-\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133110717836245390 0
 78C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\features\css-grid.js133110717836365386 0
 95C:\Users\W11\Desktop\Sass-\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133110717836275392 0
-77C:\Users\W11\Desktop\Sass-\03_Day_2\01_Inheritance\01_Placeholders\index.html133110697759379707 0
+77C:\Users\W11\Desktop\Sass-\03_Day_2\01_Inheritance\01_Placeholders\index.html133111551954079485 0
 71C:\Users\W11\Desktop\Sass-\node_modules\entities\lib\maps\entities.json133110717830125415 0
 60C:\Users\W11\Desktop\Sass-\node_modules\chalk\source\util.js133110717827590491 0
 70C:\Users\W11\Desktop\Sass-\node_modules\@parcel\transformer-js\LICENSE133110717826460477 0
@@ -2318,6 +2325,7 @@
 91C:\Users\W11\Desktop\Sass-\node_modules\@babel\highlight\node_modules\color-name\.npmignore133110717826760491 0
 54C:\Users\W11\Desktop\Sass-\node_modules\immutable\dist133110725724842956 1
 57C:\Users\W11\Desktop\Sass-\node_modules\immutable\LICENSE133110725724102958 0
+54C:\Users\W11\Desktop\Sass-\dist\index.5f64e6e9.css.map133111575284142025 0
 59C:\Users\W11\Desktop\Sass-\node_modules\immutable\README.md133110725724832967 0
 89C:\Users\W11\Desktop\Sass-\node_modules\@parcel\package-manager\src\NodePackageManager.js133110717831905433 0
 75C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\regions\alt-oc.js133110717831535515 0
@@ -2665,6 +2673,7 @@
 78C:\Users\W11\Desktop\Sass-\node_modules\@parcel\packager-js\lib\dev-prelude.js133110717827680526 0
 65C:\Users\W11\Desktop\Sass-\node_modules\csso\lib\replace\index.js133110717832735386 0
 70C:\Users\W11\Desktop\Sass-\node_modules\csso\lib\replace\Percentage.js133110717833015380 0
+57C:\Users\W11\Desktop\Sass-\dist\01_Exercise_1.dfbe5c4c.js133111631369167235 0
 62C:\Users\W11\Desktop\Sass-\node_modules\color-convert\route.js133110717828620476 0
 66C:\Users\W11\Desktop\Sass-\node_modules\csso\lib\replace\String.js133110717833265383 0
 79C:\Users\W11\Desktop\Sass-\node_modules\csso\lib\replace\property\background.js133110717830635395 0
@@ -2698,6 +2707,7 @@
 71C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\regions\AZ.js133110717833545377 0
 76C:\Users\W11\Desktop\Sass-\node_modules\@swc\helpers\src\_sliced_to_array.js133110717835945400 0
 70C:\Users\W11\Desktop\Sass-\node_modules\css-what\lib\commonjs\index.js133110717826880512 0
+61C:\Users\W11\Desktop\Sass-\dist\03_Exercise_3.eabd9315.js.map133111601228559114 0
 72C:\Users\W11\Desktop\Sass-\node_modules\css-what\lib\commonjs\parse.d.ts133110717831655397 0
 64C:\Users\W11\Desktop\Sass-\node_modules\@parcel\resolver-default133110717827570467 1
 70C:\Users\W11\Desktop\Sass-\node_modules\css-what\lib\commonjs\parse.js133110717827980473 0
@@ -3030,6 +3040,7 @@
 97C:\Users\W11\Desktop\Sass-\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js133110717830505438 0
 71C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\regions\PK.js133110717842569976 0
 71C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\regions\PS.js133110717842749986 0
+58C:\Users\W11\Desktop\Sass-\dist\01_Tooltip.a8ab7b37.js.map133111537496591449 0
 71C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\regions\PT.js133110717842759982 0
 62C:\Users\W11\Desktop\Sass-\node_modules\.bin\browserslist-lint133110717846512537 0
 81C:\Users\W11\Desktop\Sass-\node_modules\@parcel\core\src\requests\EntryRequest.js133110717834275423 0
@@ -3040,6 +3051,7 @@
 71C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\regions\SA.js133110717843332834 0
 71C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\regions\SC.js133110717843362532 0
 71C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\regions\SD.js133110717843428405 0
+61C:\Users\W11\Desktop\Sass-\dist\02_Exercise_2.1f00684e.js.map133111638202120372 0
 118C:\Users\W11\Desktop\Sass-\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback\index.js133110717832855425 0
 71C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\regions\SG.js133110717843508261 0
 71C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\regions\SH.js133110717843518382 0
@@ -3393,6 +3405,7 @@
 92C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\features\prefers-reduced-motion.js133110717842689937 0
 99C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\features\mdn-text-decoration-shorthand.js133110717840875431 0
 85C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\features\media-fragments.js133110717840905394 0
+50C:\Users\W11\Desktop\Sass-\dist\index.fd94288d.css133111604374204946 0
 94C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js133110717840915392 0
 83C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\features\mediarecorder.js133110717840925392 0
 76C:\Users\W11\Desktop\Sass-\node_modules\@parcel\config-default\test\.babelrc133110717826480495 0
@@ -3465,6 +3478,7 @@
 84C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\features\serviceworkers.js133110717843478298 0
 82C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\features\setimmediate.js133110717843488222 0
 85C:\Users\W11\Desktop\Sass-\node_modules\@swc\helpers\src\_async_generator_delegate.js133110717834855397 0
+61C:\Users\W11\Desktop\Sass-\dist\01_Exercise_1.dfbe5c4c.js.map133111631369201230 0
 79C:\Users\W11\Desktop\Sass-\node_modules\caniuse-lite\data\features\shadowdom.js133110717843528374 0
 85C:\Users\W11\Desktop\Sass-\node_modules\@parcel\watcher\src\windows\WindowsBackend.hh133110717832465445 0
 90C:\Users\W11\Desktop\Sass-\node_modules\@parcel\runtime-js\src\helpers\node\wasm-loader.js133110717832995436 0
@@ -3602,7 +3616,7 @@
 60C:\Users\W11\Desktop\Sass-\node_modules\acorn\dist\acorn.mjs133110717830645416 0
 57C:\Users\W11\Desktop\Sass-\node_modules\acorn\dist\bin.js133110717828800547 0
 69C:\Users\W11\Desktop\Sass-\node_modules\abortcontroller-polyfill\dist133110717830185392 1
-81C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\01_Exercise_1\scss\main.scss133110697762652831 0
+81C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\01_Exercise_1\scss\main.scss133111631367426990 0
 74C:\Users\W11\Desktop\Sass-\node_modules\abortcontroller-polyfill\README.md133110717830685503 0
 86C:\Users\W11\Desktop\Sass-\node_modules\abortcontroller-polyfill\src\abortableFetch.js133110717826830509 0
 96C:\Users\W11\Desktop\Sass-\node_modules\abortcontroller-polyfill\src\abortcontroller-polyfill.js133110717827750468 0
@@ -3626,6 +3640,7 @@
 77C:\Users\W11\Desktop\Sass-\node_modules\@swc\helpers\src\_array_with_holes.js133110717834775435 0
 76C:\Users\W11\Desktop\Sass-\node_modules\@swc\helpers\src\_async_generator.js133110717834835393 0
 79C:\Users\W11\Desktop\Sass-\node_modules\@swc\helpers\src\_async_to_generator.js133110717834885404 0
+61C:\Users\W11\Desktop\Sass-\dist\02_Exercise_2.1225d767.js.map133111595503250152 0
 82C:\Users\W11\Desktop\Sass-\node_modules\@swc\helpers\src\_await_async_generator.js133110717834895411 0
 88C:\Users\W11\Desktop\Sass-\node_modules\@swc\helpers\src\_check_private_redeclaration.js133110717834935405 0
 87C:\Users\W11\Desktop\Sass-\node_modules\@swc\helpers\src\_class_apply_descriptor_set.js133110717835005398 0
@@ -3635,6 +3650,7 @@
 91C:\Users\W11\Desktop\Sass-\node_modules\@parcel\core\test\fixtures\main-global\package.json133110717836725384 0
 94C:\Users\W11\Desktop\Sass-\node_modules\@swc\helpers\src\_class_check_private_static_access.js133110717835055416 0
 81C:\Users\W11\Desktop\Sass-\node_modules\@swc\helpers\src\_class_name_tdz_error.js133110717835115388 0
+54C:\Users\W11\Desktop\Sass-\dist\index.86307fed.css.map133111631369104742 0
 84C:\Users\W11\Desktop\Sass-\node_modules\@swc\helpers\src\_class_private_field_get.js133110717835145395 0
 68C:\Users\W11\Desktop\Sass-\node_modules\@parcel\watcher\src\watchman133110717832305420 1
 85C:\Users\W11\Desktop\Sass-\node_modules\@swc\helpers\src\_class_private_field_init.js133110717835165386 0
@@ -3770,6 +3786,7 @@
 60C:\Users\W11\Desktop\Sass-\node_modules\@parcel\packager-raw133110717827570467 1
 60C:\Users\W11\Desktop\Sass-\node_modules\@parcel\packager-svg133110717827570467 1
 54C:\Users\W11\Desktop\Sass-\node_modules\@parcel\plugin133110717827570467 1
+54C:\Users\W11\Desktop\Sass-\dist\index.75a77a47.css.map133111700506322855 0
 67C:\Users\W11\Desktop\Sass-\node_modules\@parcel\reporter-dev-server133110717831665387 1
 86C:\Users\W11\Desktop\Sass-\node_modules\@parcel\node-resolver-core\test\fixture\nested133110717834655382 1
 67C:\Users\W11\Desktop\Sass-\node_modules\@parcel\runtime-browser-hmr133110717829260511 1
@@ -4318,6 +4335,7 @@
 74C:\Users\W11\Desktop\Sass-\node_modules\@parcel\core\src\InternalConfig.js133110717834735384 0
 70C:\Users\W11\Desktop\Sass-\node_modules\@parcel\core\src\loadDotEnv.js133110717834775435 0
 74C:\Users\W11\Desktop\Sass-\node_modules\@parcel\core\src\PackagerRunner.js133110717835005398 0
+50C:\Users\W11\Desktop\Sass-\dist\index.4248b41a.css133111595503177829 0
 79C:\Users\W11\Desktop\Sass-\node_modules\@parcel\core\src\ParcelConfig.schema.js133110717835225386 0
 71C:\Users\W11\Desktop\Sass-\node_modules\@parcel\core\src\projectPath.js133110717835415380 0
 65C:\Users\W11\Desktop\Sass-\node_modules\@parcel\core\src\requests133110717836445380 1
@@ -4551,15 +4569,22 @@
 55C:\Users\W11\Desktop\Sass-\node_modules\.bin\terser.ps1133110717846512537 0
 56C:\Users\W11\Desktop\Sass-\dist\01_Exercises.bdc6c093.js133110890807149877 0
 60C:\Users\W11\Desktop\Sass-\dist\01_Exercises.bdc6c093.js.map133110890807220332 0
+61C:\Users\W11\Desktop\Sass-\dist\01_Exercise_1.215f3088.js.map133111575284447482 0
 57C:\Users\W11\Desktop\Sass-\dist\01_Exercise_1.aaa76160.js133110915969414015 0
 61C:\Users\W11\Desktop\Sass-\dist\01_Exercise_1.aaa76160.js.map133110915969469490 0
 66C:\Users\W11\Desktop\Sass-\dist\01_First_steps_in_SCSS.dbdaa421.js133110764373841081 0
 70C:\Users\W11\Desktop\Sass-\dist\01_First_steps_in_SCSS.dbdaa421.js.map133110764373883491 0
+73C:\Users\W11\Desktop\Sass-\07_Day_4\01_Elastic_media\02_Exercise_2\images133110705107454548 1
+59C:\Users\W11\Desktop\Sass-\dist\01_Placeholders.c4fd331b.js133111547444215610 0
 67C:\Users\W11\Desktop\Sass-\dist\01_Styling_with_nesting.83483dac.js133110865015832107 0
 71C:\Users\W11\Desktop\Sass-\dist\01_Styling_with_nesting.83483dac.js.map133110865015871512 0
+57C:\Users\W11\Desktop\Sass-\dist\02_Exercise_2.1225d767.js133111595503220089 0
+57C:\Users\W11\Desktop\Sass-\dist\02_Exercise_2.1f00684e.js133111638202054361 0
 66C:\Users\W11\Desktop\Sass-\dist\02_Value_change_in_CSS.17e52e6a.js133110767088404087 0
+57C:\Users\W11\Desktop\Sass-\dist\03_Exercise_3.74f7c09c.js133111652121747128 0
 57C:\Users\W11\Desktop\Sass-\dist\03_Exercise_3.826427f3.js133110931040777785 0
 61C:\Users\W11\Desktop\Sass-\dist\03_Exercise_3.826427f3.js.map133110931040811499 0
+57C:\Users\W11\Desktop\Sass-\dist\03_Exercise_3.eabd9315.js133111601228559114 0
 56C:\Users\W11\Desktop\Sass-\dist\03_Variables.ef3e24e3.js133110774815108378 0
 50C:\Users\W11\Desktop\Sass-\dist\index.0ba57cad.css133110890806488002 0
 50C:\Users\W11\Desktop\Sass-\dist\index.11ee2681.css133110865015832107 0
@@ -4569,10 +4594,20 @@
 50C:\Users\W11\Desktop\Sass-\dist\index.43b7a0fe.css133110915968935752 0
 50C:\Users\W11\Desktop\Sass-\dist\index.49f11a68.css133110775939172101 0
 54C:\Users\W11\Desktop\Sass-\dist\index.49f11a68.css.map133110775939172101 0
+50C:\Users\W11\Desktop\Sass-\dist\index.60e8f80a.css133111639069268881 0
+54C:\Users\W11\Desktop\Sass-\dist\index.60e8f80a.css.map133111639069268881 0
 54C:\Users\W11\Desktop\Sass-\dist\index.6c381f0f.css.map133110764372990576 0
+50C:\Users\W11\Desktop\Sass-\dist\index.75a77a47.css133111700506322855 0
+50C:\Users\W11\Desktop\Sass-\dist\index.86307fed.css133111631369104742 0
+87C:\Users\W11\Desktop\Sass-\03_Day_2\05_Introduction_to_RWD_and_units\03_Exercise_3\scss133110705101495264 1
+54C:\Users\W11\Desktop\Sass-\dist\index.8ded835c.css.map133111537496263757 0
 50C:\Users\W11\Desktop\Sass-\dist\index.a65cc45f.css133110770322389622 0
 54C:\Users\W11\Desktop\Sass-\dist\index.a65cc45f.css.map133110770322389622 0
-42C:\Users\W11\Desktop\Sass-\dist\index.html133110931037626243 0
+74C:\Users\W11\Desktop\Sass-\01_Day_1\04_Mixins\03_Exercise_3\scss\main.scss133110931776310170 0
+50C:\Users\W11\Desktop\Sass-\dist\index.bae5e739.css133111554110864608 0
+54C:\Users\W11\Desktop\Sass-\dist\index.bae5e739.css.map133111554110885208 0
+54C:\Users\W11\Desktop\Sass-\dist\index.fd94288d.css.map133111604374215000 0
+42C:\Users\W11\Desktop\Sass-\dist\index.html133111652121662662 0
 61C:\Users\W11\Desktop\Sass-\09_Day_5_Workshop_Solution\.config133110705110198070 1
 60C:\Users\W11\Desktop\Sass-\09_Day_5_Workshop_Solution\assets133110705110704470 1
 64C:\Users\W11\Desktop\Sass-\09_Day_5_Workshop_Solution\index.html133110697795245757 0
@@ -4642,7 +4677,6 @@
 77C:\Users\W11\Desktop\Sass-\07_Day_4\01_Elastic_media\03_Exercise_3\index.html133110697786432666 0
 81C:\Users\W11\Desktop\Sass-\07_Day_4\01_Elastic_media\03_Exercise_3\scss\main.scss133110697786865711 0
 84C:\Users\W11\Desktop\Sass-\07_Day_4\01_Elastic_media\03_Exercise_3\images\rabbit.png133110697786655428 0
-73C:\Users\W11\Desktop\Sass-\07_Day_4\01_Elastic_media\02_Exercise_2\images133110705107454548 1
 73C:\Users\W11\Desktop\Sass-\07_Day_4\01_Elastic_media\01_Exercise_1\images133110705107167751 1
 77C:\Users\W11\Desktop\Sass-\07_Day_4\01_Elastic_media\01_Exercise_1\index.html133110697785052034 0
 71C:\Users\W11\Desktop\Sass-\07_Day_4\01_Elastic_media\01_Exercise_1\scss133110705107254039 1
@@ -4730,7 +4764,6 @@
 97C:\Users\W11\Desktop\Sass-\03_Day_2\05_Introduction_to_RWD_and_units\05_Exercise_5\scss\main.scss133110697769177543 0
 87C:\Users\W11\Desktop\Sass-\03_Day_2\05_Introduction_to_RWD_and_units\04_Exercise_4\scss133110705101640448 1
 93C:\Users\W11\Desktop\Sass-\03_Day_2\05_Introduction_to_RWD_and_units\03_Exercise_3\index.html133110697768067827 0
-87C:\Users\W11\Desktop\Sass-\03_Day_2\05_Introduction_to_RWD_and_units\03_Exercise_3\scss133110705101495264 1
 93C:\Users\W11\Desktop\Sass-\03_Day_2\05_Introduction_to_RWD_and_units\02_Exercise_2\index.html133110697767597467 0
 87C:\Users\W11\Desktop\Sass-\03_Day_2\05_Introduction_to_RWD_and_units\02_Exercise_2\scss133110705101338484 1
 97C:\Users\W11\Desktop\Sass-\03_Day_2\05_Introduction_to_RWD_and_units\02_Exercise_2\scss\main.scss133110697767787025 0
@@ -4755,29 +4788,29 @@
 60C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\.config133110705099311408 1
 66C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\03_Exercise_3133110705099746022 1
 62C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\README.md133110697761999094 0
-77C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\03_Exercise_3\index.html133110697763337776 0
-81C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\03_Exercise_3\scss\main.scss133110697763527763 0
-77C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\02_Exercise_2\index.html133110697762907986 0
-77C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\01_Exercise_1\index.html133110697762464438 0
+77C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\03_Exercise_3\index.html133111644802720336 0
+81C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\03_Exercise_3\scss\main.scss133111700504923546 0
+77C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\02_Exercise_2\index.html133111632493362128 0
+77C:\Users\W11\Desktop\Sass-\03_Day_2\03_Logic_in_SASS\01_Exercise_1\index.html133111628365857335 0
 67C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\01_Exercise_1133110705098766160 1
 67C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\02_Exercise_2133110705098934595 1
 72C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\03_Exercise_3\scss133110705099122469 1
-82C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\03_Exercise_3\scss\main.scss133110697761752385 0
-78C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\02_Exercise_2\index.html133110697761122278 0
+82C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\03_Exercise_3\scss\main.scss133111613320463456 0
+78C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\02_Exercise_2\index.html133111575748726918 0
 72C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\02_Exercise_2\scss133110705098960496 1
-78C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\01_Exercise_1\index.html133110697760487153 0
+78C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\01_Exercise_1\index.html133111573909010905 0
 72C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\01_Exercise_1\scss133110705098796193 1
-82C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\01_Exercise_1\scss\main.scss133110697760682251 0
+82C:\Users\W11\Desktop\Sass-\03_Day_2\02_Lists_and_maps\01_Exercise_1\scss\main.scss133111575278560135 0
 58C:\Users\W11\Desktop\Sass-\03_Day_2\01_Inheritance\.config133110705098198663 1
 66C:\Users\W11\Desktop\Sass-\03_Day_2\01_Inheritance\01_Placeholders133110705098332900 1
 57C:\Users\W11\Desktop\Sass-\03_Day_2\01_Inheritance\images133110705098472751 1
 60C:\Users\W11\Desktop\Sass-\03_Day_2\01_Inheritance\README.md133110697758879185 0
-81C:\Users\W11\Desktop\Sass-\03_Day_2\01_Inheritance\01_Placeholders\scss\main.scss133110697759549341 0
+81C:\Users\W11\Desktop\Sass-\03_Day_2\01_Inheritance\01_Placeholders\scss\main.scss133111566848092381 0
 72C:\Users\W11\Desktop\Sass-\03_Day_2\01_Inheritance\.config\exercises.yml133110697759123588 0
 57C:\Users\W11\Desktop\Sass-\02_Day_1_-_Homework\01_Tooltip133110705097931591 1
 56C:\Users\W11\Desktop\Sass-\02_Day_1_-_Homework\README.md133110697757683395 0
 62C:\Users\W11\Desktop\Sass-\02_Day_1_-_Homework\01_Tooltip\scss133110705097960946 1
-72C:\Users\W11\Desktop\Sass-\02_Day_1_-_Homework\01_Tooltip\scss\main.scss133110697758389546 0
+72C:\Users\W11\Desktop\Sass-\02_Day_1_-_Homework\01_Tooltip\scss\main.scss133111528545230899 0
 46C:\Users\W11\Desktop\Sass-\01_Day_1\02_Nesting133110705096413544 1
 45C:\Users\W11\Desktop\Sass-\01_Day_1\04_Mixins133110705097545340 1
 45C:\Users\W11\Desktop\Sass-\01_Day_1\README.md133110697751565781 0
@@ -4787,7 +4820,6 @@
 63C:\Users\W11\Desktop\Sass-\01_Day_1\04_Mixins\images\dialog.png133110697757442540 0
 70C:\Users\W11\Desktop\Sass-\01_Day_1\04_Mixins\03_Exercise_3\index.html133110930743242362 0
 64C:\Users\W11\Desktop\Sass-\01_Day_1\04_Mixins\03_Exercise_3\scss133110705097491733 1
-74C:\Users\W11\Desktop\Sass-\01_Day_1\04_Mixins\03_Exercise_3\scss\main.scss133110931776310170 0
 64C:\Users\W11\Desktop\Sass-\01_Day_1\04_Mixins\02_Exercise_2\scss133110705097302352 1
 74C:\Users\W11\Desktop\Sass-\01_Day_1\04_Mixins\02_Exercise_2\scss\main.scss133110697756722866 0
 64C:\Users\W11\Desktop\Sass-\01_Day_1\04_Mixins\01_Exercise_1\scss133110705097143924 1

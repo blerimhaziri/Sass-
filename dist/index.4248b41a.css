@@ -1,0 +1,18 @@
+header:first-child {
+  background-color: red;
+}
+
+body {
+  color: #fff;
+  background-color: #00f;
+}
+
+section {
+  background-color: orange;
+}
+
+footer .main-width .menu {
+  background-color: olive;
+}
+
+/*# sourceMappingURL=index.4248b41a.css.map */

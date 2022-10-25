@@ -1,0 +1,17 @@
+$blue: blue;
+$orange: orange;
+@for $i from 1 through 10 {
+  div {
+    border: 2px solid blue;
+    height: 200px;
+  }
+  @if $i % 2 == 0 {
+    .block_#{$i} {
+      background: $orange;
+    }
+  } @else {
+    .block_#{$i} {
+      background: $blue;
+    }
+  }
+}

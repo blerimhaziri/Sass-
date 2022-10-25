@@ -1,0 +1,26 @@
+%structure {
+  height: 480px;
+  border: 1px solid;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  color: white;
+  font-size: 50px;
+}
+
+.container {
+  .success {
+    background-color: green;
+    @extend %structure;
+  }
+  .error {
+    background-color: red;
+    @extend %structure;
+  }
+  .info {
+    background-color: blue;
+    @extend %structure;
+  }
+}

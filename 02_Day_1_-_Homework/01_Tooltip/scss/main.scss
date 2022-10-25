@@ -1,0 +1,20 @@
+@mixin tooltipHover($tooltipText, $width) {
+  background-color: rgb(48, 252, 48);
+  width: $width;
+  color: white;
+  padding: 5px;
+  position: relative;
+  content: $tooltipText;
+  border-radius: 8px;
+}
+.tooltip {
+  display: inline-block;
+  .tooltip__text {
+    &:hover {
+      &::after {
+        @include tooltipHover("Tooltip text", 120px);
+        left: 5px;
+      }
+    }
+  }
+}

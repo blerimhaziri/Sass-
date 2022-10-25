@@ -1,0 +1,26 @@
+@use "sass:map";
+
+$colors: (
+  body: blue,
+  font: white,
+  ul: olive,
+  section: orange,
+  header: red,
+);
+header:first-child {
+  background-color: map.get($colors, header);
+}
+body {
+  background-color: map.get($colors, body);
+  color: map.get($colors, font);
+}
+section {
+  background-color: map.get($colors, section);
+}
+footer {
+  .main-width {
+    .menu {
+      background-color: map.get($colors, ul);
+    }
+  }
+}
