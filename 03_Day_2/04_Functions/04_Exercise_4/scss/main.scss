@@ -1,0 +1,12 @@
+@use "sass:color";
+
+$red: red;
+$blue: blue;
+
+@function mixedColor($color1, $color2) {
+  @return color.mix($color1, $color2);
+}
+
+.content {
+  background-color: color.mix($red, $blue);
+}

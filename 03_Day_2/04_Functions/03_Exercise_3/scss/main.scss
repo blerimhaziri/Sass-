@@ -1,0 +1,15 @@
+@use "sass:math";
+
+// @function math.percentage($number){
+// percentage($number);
+// }
+
+// $number: 5;
+
+$rritja: 5;
+
+$number: percentage($rritja);
+
+p {
+  font-size: $number;
+}

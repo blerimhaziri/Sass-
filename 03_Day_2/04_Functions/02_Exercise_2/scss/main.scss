@@ -1,0 +1,28 @@
+@use "sass:color";
+
+$red: red;
+
+h1 {
+  color: color.scale($red, $lightness: 15%);
+}
+
+h2 {
+  color: color.scale($red, $lightness: 30%);
+}
+
+h3 {
+  color: color.scale($red, $lightness: 40%);
+}
+
+h4 {
+  color: color.scale($red, $lightness: 60%);
+}
+
+// me bo me loop //
+// @use "sass:color";
+// $color: blue;
+// @for $i from 1 through 4 {
+//   h#{$i} {
+//     color: color.scale($color, $lightness: $i * 15%);
+//   }
+// }

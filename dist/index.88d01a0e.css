@@ -1,0 +1,16 @@
+.test_height_grandpa {
+  height: 50px;
+  border: 4px solid #00f;
+}
+
+.test_height_grandpa .test_height_daddy {
+  height: 200%;
+  border: 4px solid red;
+}
+
+.test_height_grandpa .test_height_baby {
+  height: 50%;
+  border: 4px solid green;
+}
+
+/*# sourceMappingURL=index.88d01a0e.css.map */
