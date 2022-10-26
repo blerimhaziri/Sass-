@@ -1,0 +1,36 @@
+.container {
+  width: 100%;
+  display: flex;
+
+  @media only screen and (max-width: 600px) {
+    display: block;
+  }
+
+  .sidebar {
+    width: 30%;
+    height: 50vh;
+    display: flex;
+    font-size: 1.5em;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    @media only screen and (max-width: 600px) {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+  section {
+    width: 70%;
+    height: 50vh;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: blue;
+    @media only screen and (max-width: 600px) {
+      width: 100%;
+    }
+  }
+}

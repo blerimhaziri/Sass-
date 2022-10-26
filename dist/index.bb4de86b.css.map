@@ -1,0 +1,1 @@
+{"mappings":"AACE;EADF","sources":["05_Day_3/01_Media_queries/01_Exercise_1/scss/main.scss"],"sourcesContent":["body {\r\n  @media only screen and (min-width: 421px) {\r\n    background-color: black;\r\n  }\r\n}\r\n"],"names":[],"version":3,"file":"index.bb4de86b.css.map","sourceRoot":"/__parcel_source_root/"}

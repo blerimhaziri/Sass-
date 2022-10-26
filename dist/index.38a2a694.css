@@ -1,0 +1,93 @@
+.container {
+  width: 100%;
+  max-width: 990px;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: flex;
+}
+
+.container .row {
+  width: 100vw;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.container .row [class*="element-"] {
+  min-height: 300px;
+  width: 8.33333%;
+}
+
+@media only screen and (max-width: 478px) {
+  .container .row [class*="element-"] {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 479px) and (max-width: 768px) {
+  .container .row [class*="element-"] {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1200px) {
+  .container .row [class*="element-"] {
+    width: 16.6667%;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+  .container .row [class*="element-"] {
+    width: 12.5%;
+  }
+}
+
+.container .row .element-1 {
+  background-color: #00f;
+}
+
+.container .row .element-2 {
+  background-color: red;
+}
+
+.container .row .element-3 {
+  background-color: #b95252;
+}
+
+.container .row .element-4 {
+  background-color: #8f6969;
+}
+
+.container .row .element-5 {
+  background-color: #e5dcdc;
+}
+
+.container .row .element-6 {
+  background-color: #2224b6;
+}
+
+.container .row .element-7 {
+  background-color: #6ca9bc;
+}
+
+.container .row .element-8 {
+  background-color: #ac3059;
+}
+
+.container .row .element-9 {
+  background-color: #56a795;
+}
+
+.container .row .element-10 {
+  background-color: #ab3030;
+}
+
+.container .row .element-11 {
+  background-color: #08021a;
+}
+
+.container .row .element-12 {
+  background-color: #078ea6;
+}
+
+/*# sourceMappingURL=index.38a2a694.css.map */

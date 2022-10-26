@@ -1,0 +1,13 @@
+body {
+  @media only screen and (max-width: 400px) {
+    background-color: green;
+  }
+
+  @media only screen and (min-width: 400px) and (max-width: 800px) {
+    background-color: violet;
+  }
+
+  @media only screen and (min-width: 800px) {
+    background-color: orange;
+  }
+}

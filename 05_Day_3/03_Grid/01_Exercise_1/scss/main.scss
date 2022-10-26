@@ -1,0 +1,77 @@
+// $columns: 10;
+// $column-base-width: 100% / $columns;
+$xs-column: 1;
+$sm-column: 2;
+$md-column: 6;
+$lg-column: 8;
+$xl-column: 12;
+$xs: 100% / $xs-column;
+$sm: 100% / $sm-column;
+$md: 100% / $md-column;
+$lg: 100% / $lg-column;
+$xl: 100% / $xl-column;
+.container {
+  width: 100%;
+  max-width: 990px;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: flex;
+  flex-wrap: wrap;
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    [class*="element-"] {
+      min-height: 300px;
+      width: $xl;
+      @media only screen and (max-width: 478px) {
+        width: $xs;
+      }
+      @media only screen and (min-width: 479px) and (max-width: 768px) {
+        width: $sm;
+      }
+      @media only screen and (min-width: 769px) and (max-width: 1200px) {
+        width: $md;
+      }
+      @media only screen and (min-width: 1200px) and (max-width: 1400px) {
+        width: $lg;
+      }
+    }
+    .element-1 {
+      background-color: blue;
+    }
+    .element-2 {
+      background-color: red;
+    }
+    .element-3 {
+      background-color: rgb(185, 82, 82);
+    }
+    .element-4 {
+      background-color: rgb(143, 105, 105);
+    }
+    .element-5 {
+      background-color: rgb(229, 220, 220);
+    }
+    .element-6 {
+      background-color: rgb(34, 36, 182);
+    }
+    .element-7 {
+      background-color: rgb(108, 169, 188);
+    }
+    .element-8 {
+      background-color: rgb(172, 48, 89);
+    }
+    .element-9 {
+      background-color: rgb(86, 167, 149);
+    }
+    .element-10 {
+      background-color: rgb(171, 48, 48);
+    }
+    .element-11 {
+      background-color: rgb(8, 2, 26);
+    }
+    .element-12 {
+      background-color: rgb(7, 142, 166);
+    }
+  }
+}
