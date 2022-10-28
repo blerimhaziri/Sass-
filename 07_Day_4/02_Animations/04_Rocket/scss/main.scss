@@ -18,7 +18,12 @@
   height: 100vh;
   background: rgb(18, 43, 71);
   background: url(../images/stars.png),
-  linear-gradient(180deg, rgba(18, 43, 71, 1) 0%, rgba(18, 20, 37, 1) 51%, rgba(46, 25, 54, 1) 100%);
+    linear-gradient(
+      180deg,
+      rgba(18, 43, 71, 1) 0%,
+      rgba(18, 20, 37, 1) 51%,
+      rgba(46, 25, 54, 1) 100%
+    );
   position: relative;
   background-size: 200px 200px, cover;
   min-width: 1200px;
@@ -29,9 +34,42 @@
   width: 89px;
   height: 150px;
   position: absolute;
-  left: 0;
-  top: 0;
+  left: 10%;
+  top: 20%;
   z-index: 2;
+  animation: identifier 15s ease infinite;
+  @keyframes identifier {
+    25% {
+      position: absolute;
+      top: 10%;
+      left: 15%;
+      transform: rotate(95deg);
+    }
+    50% {
+      position: absolute;
+      top: 20%;
+      left: 85%;
+      transform: rotate(140deg);
+    }
+    75% {
+      position: absolute;
+      left: 80%;
+      top: 70%;
+      transform: rotate(225deg);
+    }
+    90% {
+      position: absolute;
+      left: 12%;
+      top: 70%;
+      transform: rotate(345deg);
+    }
+    100% {
+      position: absolute;
+      left: 12%;
+      top: 15%;
+      transform: rotate(405deg);
+    }
+  }
 
   span {
     display: block;
@@ -44,7 +82,7 @@
 
   &.fly {
     &::after {
-      content: '';
+      content: "";
       background: url(../images/fire.png);
       background-size: cover;
       width: 42px;
@@ -87,7 +125,6 @@
   height: 246px;
   left: calc(100% - 460px);
   top: calc(100% - 350px);
-
 }
 
 .planet4 {

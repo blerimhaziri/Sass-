@@ -4,24 +4,31 @@
   min-height: 50vh;
   justify-content: center;
   align-items: center;
+  background-color: gray;
 }
 
 .red-button {
   padding: 20px 40px;
-  color: crimson;
+  color: white;
   border-radius: 40px;
   border: 0;
   margin: 10px;
   text-transform: uppercase;
   background: none;
-  box-shadow: inset 0 0 0 3px crimson;
+  box-shadow: inset 0 0 0 3px white;
   cursor: pointer;
+  transition: 0.3s;
 }
 
 .red-button:hover {
-
+  background-color: blueviolet;
+  &::before {
+    content: "";
+  }
+  &::after {
+    content: "";
+  }
 }
-
 
 .blue-button {
   padding: 20px 40px;
@@ -35,13 +42,12 @@
 }
 
 .blue-button:hover {
-
+  transform: translate(-50%, -50%);
 }
-
 
 .green-button {
   padding: 20px 40px;
-  background: #2FEB73;
+  background: #2feb73;
   border: 0;
   color: #fff;
   margin: 10px;
@@ -50,5 +56,14 @@
 }
 
 .green-button:hover {
-
+  background-color: aqua;
+  animation: pulse 2s infinite ease alternate;
+  @keyframes pulse {
+    from {
+      transform: rotate3d(0);
+    }
+    to {
+      transform: rotate3d(1, 1, 1, 50deg);
+    }
+  }
 }
